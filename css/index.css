@@ -67,12 +67,13 @@ ol > li {
 .columns {
   display: flex;
   justify-content: space-around;
+  align-items:center;
 }
 
 .side-bar {
   width: 50%;
   border-left: 2px brown solid;
-  height: 70vh;
+  height: 50vh;
   box-shadow: 30px -15px 5px teal;
 }
 
