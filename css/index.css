@@ -73,13 +73,12 @@ ol > li {
   width: 50%;
   border-left: 2px brown solid;
   height: 70vh;
+  box-shadow: 30px -15px 5px teal;
 }
 
 footer {
   width: 100%;
-
   line-height: 20px;
-
   margin-top: auto;
   display: flex;
   justify-content: center;
